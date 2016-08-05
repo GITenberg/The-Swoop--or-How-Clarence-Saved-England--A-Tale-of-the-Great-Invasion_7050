@@ -1,0 +1,35 @@
+_repo: The-Swoop--or-How-Clarence-Saved-England--A-Tale-of-the-Great-Invasion_7050
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Windham, Basil
+    - Wodehouse, Pelham Grenville
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_bookshelf:
+- Scouts
+- Humor
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Boy Scouts -- Fiction'
+- !lcsh 'Imaginary wars and battles -- Fiction'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: 'The Swoop! or, How Clarence Saved England: A Tale of the Great Invasion'
+url: http://www.gutenberg.org/ebooks/7050
